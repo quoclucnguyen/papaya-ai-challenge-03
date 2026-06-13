@@ -1,4 +1,4 @@
-# AI Challenge 03 — Claim Notification Email Templates (React + Vite, CSR)
+# AI Challenge 03 — Claim Notification Email Templates
 
 Solution for `AI_Challenge_03.md` (a copy of the original challenge is included in this
 directory), **v3 — React + Vite, client-side rendering only**: 6 email templates built
