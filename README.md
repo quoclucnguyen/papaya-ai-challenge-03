@@ -5,6 +5,8 @@ directory), **v3 — React + Vite, client-side rendering only**: 6 email templat
 with **reusable React components**, a preview page ("Email Template Studio"), and a
 **Generate Email** feature that exports complete HTML using the entered values.
 
+**Live demo:** https://papaya-ai-challenge-03.vercel.app
+
 📄 Supporting documentation:
 
 - [`UNDERSTANDING.md`](UNDERSTANDING.md) — interpretation of the requirements and architectural decision history (v1 → v2 → v3)
